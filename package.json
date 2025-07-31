@@ -1,0 +1,26 @@
+{
+  "name": "terrenos-samalayuca",
+  "version": "1.0.0",
+  "description": "Landing page para terrenos en Samalayuca, Ciudad Juárez",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build step required'",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "terrenos",
+    "samalayuca",
+    "ciudad-juarez",
+    "landing-page",
+    "real-estate"
+  ],
+  "author": "Samalayuca Lands",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 
